@@ -24,7 +24,7 @@ The app will be soon available on Google Play Store.
 
 
 <p align="center">
- <img src="" width="200" height="400" />
+ <img src="https://user-images.githubusercontent.com/59801625/96351174-52e9d000-10d7-11eb-8c2f-a5f25d6a2f0d.png" width="200" height="400" />
   
   
   
@@ -37,24 +37,26 @@ The app will be soon available on Google Play Store.
 
 
 <p align="center">
- <img src="" width="200" height="400" />
+ <img src="https://user-images.githubusercontent.com/59801625/96351163-39e11f00-10d7-11eb-87d5-603413427f98.png" width="200" height="400" />
   
   
   
   
   
   
-   <img src="" width="200" height="400" />
+   <img src="https://user-images.githubusercontent.com/59801625/96351169-46657780-10d7-11eb-8963-7cbdc6305a31.png" width="200" height="400" />
   
   
   
-   <img src="" width="200" height="400" />
+   <img src="https://user-images.githubusercontent.com/59801625/96351171-4c5b5880-10d7-11eb-8df5-ee95216b0abd.png" width="200" height="400" />
    
    
    
    
    
   </p>
+
+
 
 
 
