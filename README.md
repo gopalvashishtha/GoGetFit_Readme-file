@@ -15,7 +15,7 @@ The app will be soon available on Google Play Store.
   
   <img src="https://user-images.githubusercontent.com/59801625/96351062-b32c4200-10d6-11eb-9c01-6a2d4fe45d70.png" width="200" height="400" />
   
-  <img src="https://user-images.githubusercontent.com/59801625/96351067-b7585f80-10d6-11eb-8694-f2c836cd9948.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/59801625/98272718-67730700-1fb7-11eb-9df5-c24866d3bf95.png" width="200" height="400" />
 </p>
 
 
