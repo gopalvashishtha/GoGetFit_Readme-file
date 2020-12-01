@@ -1,7 +1,7 @@
 # GoGetFit_Readme-file
 This is the read me file of GoGetFit app.
-The app will be soon available on Google Play Store.
-
+ Download link : 
+https://play.google.com/store/apps/details?id=com.gopalv.gogetfit
 
 
 ##  Screenshots
